@@ -5,3 +5,5 @@ This Repo contains two jupyter notebook files that demonstrate two examples of t
 2. A 2+2 version (n = 4, m = 2) with all quantum gates hard-coded (O(logN depth with O(N) qubits). We do not implement the COPY oracles to save some qubit counts.
 
 Please contact kgui@uchicago.edu if you have any questions.
+
+We also sorted some classical helper functions together into helper_function.py.
