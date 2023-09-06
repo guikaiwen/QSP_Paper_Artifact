@@ -8,6 +8,8 @@ This Repo contains two jupyter notebook files that demonstrate two examples of t
 
 We also sorted some classical helper functions together into `helper_function.py`.
 
+-------------------------------
+
 The Amazon Braket Python SDK can be installed with pip on your local machine as follows:
 ```ruby
 pip install amazon-braket-sdk
