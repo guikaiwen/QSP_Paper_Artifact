@@ -7,7 +7,7 @@ def round_to_three_significant_digits(numbers_vec: list, digit: int) -> np.ndarr
     Function to round the input vector of floating numbers to the targeted number of digits
     
     @param numbers_vec: vector of floating numbers to be rounded each
-    @param digit: targetting number of digits to round to
+    @param digit: targeting number of digits to round to
     
     @return rounded_numbers_vec: rounded vector of floating numbers
     """
