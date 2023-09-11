@@ -16,6 +16,8 @@ pip install amazon-braket-sdk
 ```
 See https://pypi.org/project/amazon-braket-sdk/ for more installation details.
 
+The current Braket SDK version is `1.55.0`.
+
 -------------------------------
 The current QSP operation demonstrated in this repo has the following circuit complexity numbers:
 
