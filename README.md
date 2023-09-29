@@ -18,6 +18,10 @@ See https://pypi.org/project/amazon-braket-sdk/ for more installation details.
 
 The current Braket SDK version is `1.55.0`.
 
+The current Python version is `3.10.11`.
+
+https://www.python.org/downloads/release/python-31011/
+
 -------------------------------
 The current QSP operation demonstrated in this repo has the following circuit complexity numbers:
 
